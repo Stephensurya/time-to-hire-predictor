@@ -1,0 +1,5 @@
+Job_Family,Job_Role,Job_Band,Experience_Required_Years,City,Interview_Panel_Availability,Total_Interview_Rounds,Assessment_Included,Candidate_Source,Notice_Period_Days,Predicted_Time_to_Hire,Prediction_Timestamp
+Sales,0,Band_2,6,Chennai,4,3,No,Other,90,22,2026-02-01 13:44:56.489191
+HR,0,Band_3,6,Bangalore,5,3,Yes,LinkedIn,60,21,2026-02-01 13:50:15.103517
+HR,0,Band_3,6,Bangalore,5,3,Yes,LinkedIn,60,21,2026-02-01 13:55:54.227895
+HR,0,Band_3,6,Bangalore,5,3,Yes,LinkedIn,60,21,2026-02-01 13:55:56.298821
